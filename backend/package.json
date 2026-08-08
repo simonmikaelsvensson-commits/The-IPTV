@@ -17,5 +17,8 @@
     "pg": "^8.11.0",
     "validator": "^13.9.0",
     "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^10.8.1"
   }
 }
